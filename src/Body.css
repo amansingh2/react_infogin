@@ -1,0 +1,35 @@
+._body{
+  background-color: blue;
+  /* text-align: left; */
+  color:azure;
+  padding-top: 120px;
+  font-weight: 600;
+}
+.toLeft{
+box-sizing: content-box;
+width: 30%;
+height: 500px;
+/* border: solid #5B6DCD 10px; */
+padding: 10px;
+text-align: center;
+}
+.sp1{
+  padding: 20px;
+  font-size:small;
+}
+.sp2{
+  padding: 10px 50px 20px;
+  font-size:larger;
+  margin-top: 40%;
+  color: springgreen;
+}
+.sp1:hover{
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.2 ease-out
+}
+.sp2 :hover{
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.2 ease-out
+}
